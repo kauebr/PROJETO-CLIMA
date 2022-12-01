@@ -10,5 +10,8 @@ Veja mais sobre o relatório no site da [ONU](https://brasil.un.org/pt-br/139401
 
 Ao final desde relatório, os cientistas responsáveis, fizeram um apelo à a comunidade científica, para juntos tentarmos frear este quadro catastrófico que nós mesmos pintamos. Este projeto surge como nossa resposta a este chamado.
 
-A idéia é gerar um estudo bem extruturado,  baseado em dados, que possa concretamente,  servir de arcabouço e direcionamento à tomada de atitudes, pela nossa sociedade, visando conhecer e diminuir as causas do aquecimento global e suas consequências.
+A idéia é gerar um estudo bem extruturado,  baseado em dados, que possa concretamente,  servir de arcabouço e direcionamento à tomada de atitudes, pela nossa sociedade, visando conhecer e diminuir as causas do aquecimento global e suas consequências. Por final, nosso objetivo é dar ampla publicidade ao estudo, visando que chegue até os governos, empresas e sociedade. Nosso objetivo final é que este estudo seja aprsentado no COP 28 Brasil, para que nosso estudo tenha impacto tangível.
+
+
+
 
