@@ -1,0 +1,6 @@
+1 semana - 01/12 ~ 08/12 - entendimento de negocio - cronograma - fluxograma ciclico
+2 semana - 08/12 ~ 15/12 - definimos os dados mineramos modelamos e estruturamos
+3 semana - 15/12 ~ 22/12 - análise exploratório com insights
+4 semana - 22/12 ~ 29/10 - revisão tudo story telling e posta se fica bom
+
+* refazer esse notepad em um layout e colocar no resume.md
