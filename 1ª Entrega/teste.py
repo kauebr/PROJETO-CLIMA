@@ -1,1 +1,0 @@
-print('arquivo de teste')
