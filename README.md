@@ -13,3 +13,4 @@ Ao final desde relatório, os cientistas responsáveis, fizeram um apelo à a co
 A idéia é gerar um estudo bem estruturado,  baseado em dados, que possa, concretamente,  servir de arcabouço e direcionamento à tomada de atitudes, pela nossa sociedade, visando conhecer e diminuir as causas do aquecimento global e suas consequências. Por final, nosso objetivo é dar ampla publicidade ao estudo, visamos que nosso estudo chegue até os governos, empresas e sociedade. Por final visamos que este estudo seja apresentado no COP 28 Brasil.
 
 
+> Utilizaremos neste projeto os preceitos do método cíclico de desenvolvimento em entregas rápidas, metodologia ágil, CI/CD e ciclo PDCA.
