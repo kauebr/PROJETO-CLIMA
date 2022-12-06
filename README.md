@@ -17,6 +17,7 @@ A idéia é gerar um estudo bem estruturado,  baseado em dados, que possa, concr
 
 Autores
 
-Huan Barros     - Cientista de dados
-Kaue Mandarino  - Cientista de dados
-Luigi Bassorici - Cientista de dados
+Huan Barros     - Cientista de dados  
+Kaue Mandarino  - Cientista de dados  
+Luigi Bassorici - Cientista de dados  
+ 
