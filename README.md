@@ -15,7 +15,7 @@ A idéia é gerar um estudo bem estruturado,  baseado em dados, que possa, concr
 
 > Utilizaremos neste projeto os preceitos do método cíclico de desenvolvimento em entregas rápidas, metodologia ágil, CI/CD e ciclo PDCA.
 
-Autores:
+Autores:  
 Huan Barros     - Cientista de dados  
 Kaue Mandarino  - Cientista de dados  
 Luigi Bassorici - Cientista de dados  
