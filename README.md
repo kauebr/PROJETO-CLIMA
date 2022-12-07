@@ -1,5 +1,5 @@
 # PROJETO CLIMA
-Estudo baseado em dados, sobre como diminuir o aquecimento global, e mitigar seus efeitos climáticos de maneira eficiênte.
+Estudo baseado em dados, focado no brasil, sobre como diminuir o aquecimento global, e mitigar seus efeitos climáticos de maneira eficiênte.
 A idéia de montar este projeto, surge após a publicação [relatório](https://unric.org/en/guterres-the-ipcc-report-is-a-code-red-for-humanity/?utm_source=meio&utm_medium=email) do [IPCC](https://www.ipcc.ch/)(Painel Intergovernamental sobre Mudanças Climáticas), feito para o COP26:
 * O novo relatório global do IPCC foi motivo de apreensão na comunidade internacional. Desenvolvido pelos maiores especialistas em mudanças climáticas, ele indica que a temperatura média do planeta tende aumentar 1,5 ºC nas próximas duas décadas, trazendo devastação generalizada. 
 * Pela primeira vez, a entidade quantificou o grau de influência das mudanças climáticas à frequência e à intensidade de eventos extremos, como secas prolongadas, ondas de calor, tempestades e furacões.
