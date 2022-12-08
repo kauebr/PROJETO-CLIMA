@@ -1,2 +1,1 @@
-<iframe scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" style="display: initial; margin: 0 auto;" src="https://cbhighcharts2021.s3.eu-west-2.amazonaws.com/climate-justice/cumulative-emissions/cumulative-emissions.html" width="770px" height="550px"></iframe><span style="display:block; height:22px; max-width:770px;"><a href="https://www.carbonbrief.org" target="_blank"><img src="https://s3.eu-west-2.amazonaws.com/cbhighcharts2019/cb-logo-highcharts.svg" style="width: 22px; height: 22px; margin-top: 2px; margin-bottom: 2px; float:right; background-repeat: no-repeat; background-size: contain;"/></span>
- 
+
